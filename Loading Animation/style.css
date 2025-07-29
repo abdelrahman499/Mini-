@@ -26,7 +26,7 @@ body{
     border-radius: 50%;
     background: #fff;
     margin: 0 10px;
-    animation: load 0.8  ease infinite;
+    animation: load 0.8s  ease infinite;
 }
 .loader .loading.one{
     animation-delay: 0.3s;
